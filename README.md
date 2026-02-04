@@ -2,7 +2,7 @@
 
 Webapp immersive pour une agence de voyage temporel de luxe, réalisée dans le cadre du projet supervisé "IA Créatives".
 
-🔗 **Démo en ligne** : [COLLER_VOTRE_LIEN_LOVABLE_ICI_DEMAIN]
+🔗 **Démo en ligne** : (https://time-tracer-hub.lovable.app)
 
 ## 📸 Aperçu du Projet
 
