@@ -44,5 +44,21 @@ Conformément à la charte d'utilisation des IA :
 * **Stratégie** : Élaborée avec l'aide de Gemini.
 * **Images** : Synthétisées via Nano Banana.
 
+## 🧠 Retour d'expérience & Processus (Vibe Coding)
+
+Ce projet a été réalisé en 2 heures en adoptant une approche "Vibe Coding" pure.
+
+### Ce qui a bien fonctionné :
+* **Rapidité d'exécution** : Passer de l'idée au MVP déployé en moins de 2h grâce à Lovable.
+* **Prompt Engineering** : L'utilisation de descriptions visuelles précises (inspirées des images générées) a permis d'obtenir un design "Dark Mode" cohérent du premier coup.
+* **Intégration des Assets** : L'hébergement externe sur Imgur a contourné la complexité de la gestion de fichiers locaux.
+
+### Défis rencontrés & Solutions :
+* **Hallucinations du Chatbot** : Au début, l'agent inventait des réponses. Solution : Injection d'un contexte strict ("Tu es Chronos...") et de règles métier (Prix, Sécurité) directement dans le prompt système.
+* **Contraintes de Crédits** : La gestion des tokens a nécessité d'être stratégique sur les prompts (regrouper les demandes de modifications en un seul message).
+
+### Conclusion
+L'IA a agi comme un développeur senior, me permettant de me concentrer sur l'UX, la direction artistique et la logique métier plutôt que sur la syntaxe React.
+
 ## 📄 Licence
 MIT License - Projet pédagogique M1/M2.
